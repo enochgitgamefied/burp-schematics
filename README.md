@@ -25,8 +25,8 @@ A Burp Suite extension for creating network diagrams and documentation directly 
    ```
 
 2. **Required Libraries**:
-   - [iTextPDF 5.5.13](https://repo1.maven.org/maven2/com/itextpdf/itextpdf/5.5.13/itextpdf-5.5.13.jar)
-   - [XMLWorker 5.5.13](https://repo1.maven.org/maven2/com/itextpdf/xmlworker/5.5.13/xmlworker-5.5.13.jar)
+   - [iTextPDF 5.5.13]-(https://repo1.maven.org/maven2/com/itextpdf/itextpdf/5.5.13/itextpdf-5.5.13.jar)
+   - [XMLWorker 5.5.13]-(https://repo1.maven.org/maven2/com/itextpdf/xmlworker/5.5.13/xmlworker-5.5.13.jar)
 
 ### Build Steps (Manual)
 1. Download dependencies to `/lib` folder:

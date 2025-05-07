@@ -59,6 +59,9 @@ A Burp Suite extension for creating network diagrams and documentation directly 
    - Format documentation text
 3. Export via:
    - File → Export → PDF/PNG
+## Tutorial on how to compile and create the jar file for the extension is on Youtube and can be found on the link below
+https://www.youtube.com/watch?v=QWJn10hFEIw
+
 
 ## Troubleshooting
 **PDF Export Fails?**

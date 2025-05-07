@@ -76,4 +76,4 @@ Apache 2.0 - See [LICENSE](LICENSE)
 
 ---
 
-**Note**: Replace `[Releases](#)` with your actual release URL when available. For Burp API, users should use the JAR from their own Burp installation to comply with PortSwigger's licensing terms.
+

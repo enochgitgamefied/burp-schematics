@@ -434,12 +434,7 @@ public class BurpExtender implements IBurpExtender, ITab {
         addTableContextMenu();
     }
     
-    
-    
- 
-
-    // Add these methods
-    private BufferedImage captureDiagramImage() {
+        private BufferedImage captureDiagramImage() {
         BufferedImage image = new BufferedImage(
             drawingPanel.getWidth(), 
             drawingPanel.getHeight(),
@@ -545,8 +540,6 @@ public class BurpExtender implements IBurpExtender, ITab {
         callbacks.printError("PDF Export Error: " + e.getMessage());
     }
     
-    
- // Replace your current zoom methods with these:
     private void zoomIn() {
         Font currentFont = textPane.getFont();
         int newSize = Math.min(currentFont.getSize() + FONT_ZOOM_INCREMENT, MAX_FONT_SIZE);
@@ -589,10 +582,7 @@ public class BurpExtender implements IBurpExtender, ITab {
             currentFont.getStyle(),
             DEFAULT_FONT_SIZE
         ));
-    }
-
-
-    
+    }    
     
     private void showTableInsertDialog() {
         JDialog dialog = new JDialog();
